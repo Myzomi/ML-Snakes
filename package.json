@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.8.4",
+    "tailwindcss": "^3.4.14"
+  },
+  "dependencies": {
+    "vite": "^5.4.10"
+  }
+}
